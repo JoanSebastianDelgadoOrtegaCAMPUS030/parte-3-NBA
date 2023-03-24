@@ -1,1 +1,1 @@
-# parte-3-NBA
+# aplicacion-NBA-js
